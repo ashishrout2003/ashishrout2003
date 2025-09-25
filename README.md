@@ -62,15 +62,13 @@
 
 ---
 
-## 🐍 Contribution Snake Visualizations  
+## 🐍 Contribution Snake  
 
 <p align="center">
-  <!-- Default Snake -->
   <img src="https://raw.githubusercontent.com/ashishrout/ashishrout/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
-  <!-- Dark/Light Auto Snake -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashishrout/ashishrout/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashishrout/ashishrout/output/github-contribution-grid-snake.svg" />
@@ -79,8 +77,7 @@
 </p>
 
 <p align="center">
-  <!-- Ocean Colorful Snake -->
-  <img src="https://raw.githubusercontent.com/ashishrout/ashishrout/output/ocean/github-contribution-grid-snake.svg" alt="Snake animation colorful" />
+  <img src="https://raw.githubusercontent.com/ashishrout/ashishrout/output/ocean/github-contribution-grid-snake.svg" alt="Colorful Snake" />
 </p>
 
 ---
