@@ -110,15 +110,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
-</p>
-
----
-
 ## 🎓 Education
 
 🎓 **MCA** – NIIS Engineering College, Bhubaneswar (2023 – 2025)  
@@ -128,18 +119,61 @@ CGPA: **8.99**
 
 ---
 
+---
+
+## 🧠 My Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full_Stack_Development-4caf50?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-ff9800?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analytics-7e57c2?style=for-the-badge&logo=chart-line&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solving-2196f3?style=for-the-badge&logo=puzzle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Continuous_Learning-f44336?style=for-the-badge&logo=book&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&row=1&margin-w=10" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
 ## 📬 Let's Connect
 
-📍 Bangalore, Karnataka  
-📧 ashishrout356@gmail.com  
-📱 +91 7847917189  
-🔗 LinkedIn: (Add your LinkedIn profile link here)
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashish_Kumar_Rout-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ashishrout356@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 > _"Stay consistent. Build skills. Keep growing."_  
-> — Ashish Kumar Rout
+> — **Ashish Kumar Rout**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=150&section=footer"/>
 </p>
