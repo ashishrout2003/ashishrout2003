@@ -11,7 +11,7 @@
 
 ## ✨ About Me
 
-💻 MCA Postgraduate (CGPA: **8.99**) with strong foundation in **Full-Stack Development & AI Integration**  
+💻 MCA Postgraduate (CGPA: **8.99**) with strong foundation in **Python Full-Stack Developement & MERN-Stack Development & AI Integration**  
 🚀 Python Full-Stack Developer with hands-on internship experience  
 📊 Passionate about building scalable applications & solving real-world problems  
 🧠 Growth mindset learner focused on continuous improvement  
@@ -81,13 +81,25 @@
 
 ## 🚀 Tech Stack
 
-### 💻 Programming & Web
+---
+
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🌐 Web Development
+
 ![React](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![APIs](https://img.shields.io/badge/API_Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -99,6 +111,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
+
+### 🤖 Artificial Intelligence
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![AI Models](https://img.shields.io/badge/AI_Models-6A1B9A?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Integration-00897B?style=for-the-badge&logo=openai&logoColor=white)
+![AI APIs](https://img.shields.io/badge/AI_APIs-FF4081?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
 
 ### 📊 Data & Tools
 
@@ -126,9 +148,12 @@ CGPA: **8.99**
   <img src="https://img.shields.io/badge/Software_Development-4caf50?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Analytics-7e57c2?style=for-the-badge&logo=chart-line&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_&_GenAI-fd7e14?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN_Stack_Development-3FA037?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team_Collaboration-009688?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Latest_Technology-673AB7?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem_Solving-2196f3?style=for-the-badge&logo=puzzle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fitness_&_Discipline-f44336?style=for-the-badge&logo=heartbeat&logoColor=white" />
 </p>
+
 
 ---
 
@@ -160,10 +185,10 @@ CGPA: **8.99**
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swadhinrajbehera/">
+  <a href="https://www.linkedin.com/in/ashish-kumar-rout-a82842295/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:swadhinrajbehera@example.com">
+  <a href="ashishrout356@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -171,7 +196,7 @@ CGPA: **8.99**
 ---
 
 > "Build skills. Stay disciplined. Keep learning."  
-> — *Swadhinraj Behera*
+> — *Ashish Kumar Rout*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=150&section=footer" alt="footer animation"/>
