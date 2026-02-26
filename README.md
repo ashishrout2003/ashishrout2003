@@ -154,24 +154,6 @@ CGPA: **8.99**
   <img src="https://img.shields.io/badge/Problem_Solving-2196f3?style=for-the-badge&logo=puzzle&logoColor=white" />
 </p>
 
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swadhinraj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swadhinraj&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swadhinraj&theme=matrix&no-frame=true&row=1&margin-w=10" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
