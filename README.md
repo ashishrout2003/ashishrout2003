@@ -8,7 +8,6 @@
 </h1>
 
 ---
-
 ## ✨ About Me
 
 💻 MCA Postgraduate (CGPA: **8.99**) with strong foundation in **Python Full-Stack Developement & MERN-Stack Development & AI Integration**  
