@@ -30,7 +30,6 @@
 - 💼 Preparing for industry-level Software Developer roles
 
 ---
-
 ## 💼 Internship Experience
 
 ### 🏢 Python Full-Stack Development Intern (Jul 2024 – Jul 2025)
