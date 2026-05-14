@@ -59,13 +59,15 @@ Tech: React.js, Node.js, Express.js, MongoDB, REST APIs, AI APIs, Tailwind CSS, 
 
 ---
 
-### 📚 E-Commerce Bookshop Application
-**Tech:** Python, Django, MongoDB, HTML, CSS, JavaScript, AJAX  
+### 💳 Banking Transaction Management System
 
-- Developed interactive online bookstore
-- Implemented login/registration & order management
-- Created dynamic product catalog with bestseller highlights
-- Integrated AJAX for real-time user interaction
+Tech: React.js, Node.js, Express.js, MongoDB, REST APIs, JavaScript, HTML5, CSS3
+
+- Built a Banking Transaction Management System for secure fund transfers, deposits, withdrawals, and transaction tracking
+- Implemented secure user authentication & authorization to protect banking services and sensitive financial data
+- Developed RESTful APIs using Node.js & Express.js for transaction processing, account management, and transaction history handling
+- Integrated MongoDB database for efficient storage of user accounts, balances, and transaction records
+- Designed responsive and user-friendly interfaces using React.js for smooth banking operations and better user experience
 
 ---
 
