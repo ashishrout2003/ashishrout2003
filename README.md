@@ -46,13 +46,16 @@
 
 ## 🚀 Projects
 
-### 🤖 AI Chatbot Application
-**Tech:** React.js, Node.js, MongoDB, AI APIs, REST APIs, Tailwind CSS  
+### 🤖 Resume Intelligence Platform
 
-- Built AI-powered chatbot with intelligent responses
-- Implemented secure authentication & chat history management
-- Developed real-time messaging system
-- Designed responsive and smooth UI
+Tech: React.js, Node.js, Express.js, MongoDB, REST APIs, AI APIs, Tailwind CSS, JavaScript, HTML5, CSS3
+
+- Built an AI-powered Resume Intelligence Platform for resume analysis and career readiness insights
+- Integrated AI APIs to generate technical & behavioural interview questions, skill gap analysis, and personalized preparation plans
+- Developed Resume Parsing & AI-based Evaluation System to calculate Resume Match Scores against job descriptions
+- Created an interactive dashboard displaying match scores, interview questions, suggested answers, and candidate insights
+- Designed scalable RESTful APIs using Node.js & Express.js for resume processing, user management, and AI-driven analysis
+- Developed responsive and user-friendly UI using React.js and Tailwind CSS for smooth user experience
 
 ---
 
